@@ -1,5 +1,5 @@
 # Handwriting-Numbers-Recognition
-Small Python experimental project that builds and trains a TensorFlow Keras Model, and uses a TKinter GUI to allow the user to draw any digit from 0-9 and would guess it with 98.19\% accuracy.
+Small Python experimental project that builds and trains a TensorFlow Keras Model, and uses a TKinter GUI to allow the user to draw any digit from 0-9. It then converts the drawing to a NumPy array, and cleans up the data before being fed back into the model and would guess it with 98.19\% accuracy.
 
 <img width="591" alt="Screen Shot 2023-01-09 at 5 11 10 PM" src="https://user-images.githubusercontent.com/35640149/211727138-afc4efd9-197f-4075-a422-3fcc8ea287e7.png">
 <img width="546" alt="Screen Shot 2023-01-09 at 4 39 50 PM" src="https://user-images.githubusercontent.com/35640149/211727144-0b7669ef-25d9-47ec-b4bd-b944bb1b3918.png">
